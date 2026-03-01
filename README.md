@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sazzad Hossain
+# Sazzad Hossain Sazid
 
 ### 🚀 Competitive Programmer • Algorithmic Thinker • Problem Solver
 
